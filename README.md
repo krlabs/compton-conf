@@ -1,5 +1,6 @@
+<pre>
 #Shadows
-<pre>shadow = false; # Enabled client-side shadows on windows
+shadow = false; # Enabled client-side shadows on windows
 no-dnd-shadow = true; # Avoid drawing shadows on dock/panel windows.
 no-dock-shadow = true; # Don't draw shadows on DND windows.
 clear-shadow = true; # Zero the part of the shadow's mask behind the window (experimental).
@@ -14,7 +15,7 @@ shadow-exclude = [ "name = 'Notification'", "class_g = 'Conky'", "class_g ?= 'No
 shadow-ignore-shaped = false;
 xinerama-shadow-crop = false;
 
-#Opacity
+#Opacity<pre>
 menu-opacity = 1; # The opacity for menus. (default 1.0)
 inactive-opacity = 1; # Opacity of inactive windows. (0.1 - 1.0)
 active-opacity = 1; # Opacity of window titlebars and borders. (0.1 - 1.0)
