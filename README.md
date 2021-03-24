@@ -15,7 +15,7 @@ shadow-exclude = [ "name = 'Notification'", "class_g = 'Conky'", "class_g ?= 'No
 shadow-ignore-shaped = false;
 xinerama-shadow-crop = false;
 
-#Opacity<pre>
+#Opacity
 menu-opacity = 1; # The opacity for menus. (default 1.0)
 inactive-opacity = 1; # Opacity of inactive windows. (0.1 - 1.0)
 active-opacity = 1; # Opacity of window titlebars and borders. (0.1 - 1.0)
