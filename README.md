@@ -1,5 +1,5 @@
 #Shadows
-shadow = false; # Enabled client-side shadows on windows
+<pre>shadow = false; # Enabled client-side shadows on windows
 no-dnd-shadow = true; # Avoid drawing shadows on dock/panel windows.
 no-dock-shadow = true; # Don't draw shadows on DND windows.
 clear-shadow = true; # Zero the part of the shadow's mask behind the window (experimental).
@@ -57,3 +57,4 @@ wintypes :
     focus = true;
   };
 };
+</pre>
